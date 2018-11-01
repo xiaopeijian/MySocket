@@ -1,0 +1,62 @@
+C:\Documents and Settings\huangyabo\桌面\cs\SocketClient\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\huangyabo\桌面\cs\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Documents and Settings\huangyabo\桌面\cs\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Documents and Settings\huangyabo\桌面\cs\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Documents and Settings\huangyabo\桌面\cs\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\09学年\高级编程（06-1，06-2，成教）\06本\06-2及06-1\第2章\补充例子\Tcp套接字\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\09学年\高级编程（06-1，06-2，成教）\06本\06-2及06-1\第2章\补充例子\Tcp套接字\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\09学年\高级编程（06-1，06-2，成教）\06本\06-2及06-1\第2章\补充例子\Tcp套接字\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\09学年\高级编程（06-1，06-2，成教）\06本\06-2及06-1\第2章\补充例子\Tcp套接字\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\09学年\高级编程（06-1，06-2，成教）\06本\06-2及06-1\第2章\补充例子\Tcp套接字\SocketClient\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流.doc\code\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流.doc\code\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流.doc\code\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流.doc\code\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流.doc\code\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流\03Z 第03章 套接字与数据流(VS2008)\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\09学年\高级编程书稿\0712提交\03Z 第03章 套接字与数据流\03Z 第03章 套接字与数据流(VS2008)\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\mjbook\cs2\ch03\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+E:\mjbook\cs2\ch03\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+E:\mjbook\cs2\ch03\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+E:\mjbook\cs2\ch03\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+E:\mjbook\cs2\ch03\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\skybluewang\Desktop\21928 C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+C:\Users\skybluewang\Desktop\21928 C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+C:\Users\skybluewang\Desktop\21928 C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+C:\Users\skybluewang\Desktop\21928 C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+C:\Users\skybluewang\Desktop\21928 C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\ResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\赵工\C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\赵工\C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\赵工\C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\赵工\C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\赵工\C#网络应用编程（第2版）源程序\ch04\E01-TCPSocket\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\SocketClient\SocketClient\bin\Debug\SocketClient.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\SocketClient\SocketClient\obj\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\SocketClient\SocketClient\obj\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\SocketClient\SocketClient\bin\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\SocketClient\SocketClient\bin\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\SocketClient\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\ketClient（IP一样，设置为本机IP 127.0.0.1）\SocketClient\bin\Debug\SocketClient.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\ketClient（IP一样，设置为本机IP 127.0.0.1）\SocketClient\obj\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\ketClient（IP一样，设置为本机IP 127.0.0.1）\SocketClient\obj\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP不一样\SocketClient（IP不一样，都设置为本机IP 127.0.0.1）\SocketClient\bin\Debug\SocketClient.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP不一样\SocketClient（IP不一样，都设置为本机IP 127.0.0.1）\SocketClient\obj\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP不一样\SocketClient（IP不一样，都设置为本机IP 127.0.0.1）\SocketClient\obj\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP不一样\SocketClient（IP不一样，都设置为本机IP 127.0.0.1）\SocketClient\bin\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP不一样\SocketClient（IP不一样，都设置为本机IP 127.0.0.1）\SocketClient\bin\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP不一样\SocketClient（IP不一样，都设置为本机IP 127.0.0.1）\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\端口一样\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\1、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\1、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\1、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\1、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\1、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\1、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[1]、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\bin\Debug\SocketClient.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[1]、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[1]、实现简单的字符串传输\IP一样（都设为服务器的IP 194.168.1.124）\SocketClient（都设为服务器的IP 194.168.1.124）\SocketClient\obj\Debug\SocketClient.pdb

@@ -1,0 +1,73 @@
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\bin\Debug\SocketServer.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\bin\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\bin\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\MainWindow.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\App.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer_MarkupCompile.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer_MarkupCompile.lref
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\MainWindow.baml
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer.g.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\MainWindow.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\App.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer_MarkupCompile.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer_MarkupCompile.lref
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\MainWindow.baml
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.g.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.Properties.Resources.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\3、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\MainWindow.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\App.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer_MarkupCompile.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer_MarkupCompile.lref
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\MainWindow.baml
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.g.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.Properties.Resources.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\4、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\MainWindow.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\App.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer_MarkupCompile.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer_MarkupCompile.lref
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\bin\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\MainWindow.baml
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.g.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.Properties.Resources.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\5、可以传输任何文件，可以动态识别文件名、文件类型（WPF实现）（整合函数）\IP一样（都设为服务器的IP 194.168.1.124）\SocketServer（都设为服务器的IP 194.168.1.124）\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\bin\Debug\SocketServer.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\bin\Debug\SocketServer.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\bin\Debug\SocketServer.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.csprojResolveAssemblyReference.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\MainWindow.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\App.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer_MarkupCompile.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer_MarkupCompile.lref
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\MainWindow.baml
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.g.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\bin\Debug\SocketServer.exe.config
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.exe
+F:\百度云同步盘\我的学习\6、C#\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\[6][5]、WPF+Server、Clicent都显示图片\SocketServer\obj\Debug\SocketServer.pdb
