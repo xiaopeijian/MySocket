@@ -1,0 +1,14 @@
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\bin\Debug\Client.exe.config
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\bin\Debug\Client.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\bin\Debug\Client.pdb
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\MainWindow.g.cs
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\App.g.cs
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\MainWindow.baml
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client.g.resources
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Client\obj\Debug\Client.pdb

@@ -1,0 +1,102 @@
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\bin\Debug\Server.exe.config
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\bin\Debug\Server.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\bin\Debug\Server.pdb
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\MainWindow.g.cs
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\App.g.cs
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\MainWindow.baml
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server.g.resources
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master\Server\obj\Debug\Server.pdb
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）\Server\bin\Debug\Server.exe.config
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）\Server\obj\Debug\Server.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）\Server\obj\Debug\Server.pdb
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\bin\Debug\Server.exe.config
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server.pdb
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\bin\Debug\Server.exe
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\bin\Debug\Server.pdb
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\MainWindow.g.cs
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\App.g.cs
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server_MarkupCompile.cache
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server_MarkupCompile.lref
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\MainWindow.baml
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server.g.resources
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\lanmage2\Desktop\WPF+Socket\SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\1、SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】【原版】 - 副本\Server\bin\Debug\Server.exe.config
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\1、SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】【原版】 - 副本\Server\obj\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\1、SocketDemo-master（可发消息，可发文件）【zhdaa SocketDemo】【原版】 - 副本\Server\obj\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\bin\Debug\Server.exe.config
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\bin\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\bin\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\MainWindow.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server_MarkupCompile.cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server_MarkupCompile.lref
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\MainWindow.baml
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.g.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.Properties.Resources.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#控制台工程实现端到端通信（TCPSocket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\bin\Debug\Server.exe.config
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\bin\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\bin\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\MainWindow.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server_MarkupCompile.cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server_MarkupCompile.lref
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\MainWindow.baml
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.g.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.Properties.Resources.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[2]、(把[1]进行修改，让其收发图片）\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.exe.config
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\MainWindow.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server_MarkupCompile.cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server_MarkupCompile.lref
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\MainWindow.baml
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.g.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.Properties.Resources.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.exe.config
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.exe
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.pdb
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\MainWindow.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\App.g.cs
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server_MarkupCompile.cache
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server_MarkupCompile.lref
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\MainWindow.baml
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.g.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.Properties.Resources.resources
+F:\百度云同步盘\我的学习\6、MycSharp\C#网络编程\C#+WPF+WinForm+Tcp（Socket）\二、库代码实现\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.exe.config
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.exe
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\bin\Debug\Server.pdb
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\MainWindow.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\App.g.cs
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server_MarkupCompile.cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server_MarkupCompile.lref
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\MainWindow.baml
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.g.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.Properties.Resources.resources
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\移动DR(平板页面)\C#控制台工程实现端到端通信（TCPSocket）\[3][1]、能发送任何信息、文件名、文件类型，并把源文件保存到指定的目录\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
